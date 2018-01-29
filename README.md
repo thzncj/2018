@@ -1,6 +1,6 @@
 # mbit
 
-Extension for Yahboom mbit
+Extension for  适用于  2018.天河区.智能创建比赛 microbit机器人.扩展包
 
 ## License
 
